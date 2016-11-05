@@ -1,19 +1,23 @@
 {
-  "name": "acheoxisbot",
-  "version": "1.0.0",
-  "description": "teste de bot para o ache o xis",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/madcampos/acheoxisbot.git"
-  },
-  "author": "madcampos",
+  "name": "examples",
+  "version": "0.6.0",
+  "description": "Examples for the Bot Builder framework.",
+  "author": "Microsoft Corp.",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/madcampos/acheoxisbot/issues"
+  "main": "./examples/demo-facebook/app.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "base64url": "^1.0.6",
+    "busboy": "^0.2.13",
+    "chrono-node": "^1.1.3",
+    "jsonwebtoken": "^7.0.1",
+    "node-uuid": "^1.4.7",
+    "request": "^2.69.0",
+    "restify": "^4.0.4",
+    "rsa-pem-from-mod-exp": "^0.8.4",
+    "sprintf-js": "^1.0.3"
   },
-  "homepage": "https://github.com/madcampos/acheoxisbot#readme"
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
