@@ -1,0 +1,19 @@
+{
+  "name": "acheoxisbot",
+  "version": "1.0.0",
+  "description": "teste de bot para o ache o xis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcampos/acheoxisbot.git"
+  },
+  "author": "madcampos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madcampos/acheoxisbot/issues"
+  },
+  "homepage": "https://github.com/madcampos/acheoxisbot#readme"
+}
